@@ -1,3 +1,4 @@
+package MeowPackage;
 import java.util.Scanner;
 public class firstMeow {
 	public static void main(String[] args)
